@@ -4,6 +4,8 @@
  * This example code is in the public domain.
  */
 
+ //reads encoder
+
 #include <Encoder.h>
 
 // Change these pin numbers to the pins connected to your encoder.
